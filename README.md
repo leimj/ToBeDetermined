@@ -64,3 +64,41 @@ poi包了解
 
 
 java类转uml类图
+
+跟新工程后为什么重新设置project facets就可以访问了
+
+
+new ExtGridJson<T>(page.getCount(), page.getList()) 理解
+
+
+com.fasterxml.jackson  包学习了解
+
+
+StringUtils defaultString StringUtils包学习
+
+
+redirectAttributes.addFlashAttribute 理解
+
+
+接口可以做一个类的私有属性吗？
+
+
+Could not write content: Direct self-reference leading to cycle   错误理解
+
+
+结构体多层级转json结构Instances"])
+理解
+
+
+ Could not write content: lazy loading outside command context 
+理解
+理解为什么通过重新构造实体就解决了
+
+
+spring mvc 参数 @value 注解作用
+
+
+反射常用的包和方法
+
+
+常用excel工具包
