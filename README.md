@@ -102,3 +102,76 @@ spring mvc 参数 @value 注解作用
 
 
 常用excel工具包
+
+ext6 使用学习
+
+
+Ext.util.Format.dateRenderer 用法
+
+
+常用日期方法 dateUtils 学习
+
+
+@JsonFormat(pattern="yyyy-MM-dd HH:mm:ss") 用法 com.fasterxml.jackson.annotation
+
+
+了解com.fasterxml.jackson.annotation包 fastjson
+
+
+
+Ext.util.Format.date(Mixd value, [String format]);  如：Ext.util.Format.date(new 
+
+Date(), 'Y-m-d')=>2012-03-19
+
+Ext.util.Format.dateRenderer(string format);//专门为Ext.grid.Gridpanel使用，
+
+ColumnModel中
+
+
+js 新标签打开
+window.open("http://www.wlzhys.com", "_blank");
+
+
+理解extjs grid后台ajax方式调用数据字段数据怎么对应
+
+
+现工程删除代码跟踪
+
+
+Ext.tip.QuickTipManager.init() 作用？
+
+
+extjs 框架学习
+
+
+eclispe  js 漂亮格式化设置
+
+
+extjs grid 列源码绑定
+
+
+字符串 字节 直接如何转换
+
+
+parseHexStr2Byte  作用
+ /**
+     * 将16进制转换为二进制
+     *
+     * @param hexStr
+     * @return
+     */
+    public static byte[] parseHexStr2Byte(String hexStr) {
+        if (hexStr.length() < 1)
+            return null;
+        byte[] result = new byte[hexStr.length() / 2];
+        for (int i = 0; i < hexStr.length() / 2; i++) {
+            int high = Integer.parseInt(hexStr.substring(i * 2, i * 2 + 1), 16);
+            int low = Integer.parseInt(hexStr.substring(i * 2 + 1, i * 2 + 2), 16);
+            result[i] = (byte) (high * 16 + low);
+        }
+        return result;
+    }
+
+
+
+理解为什么ProcessManage.js加了Ext.onReady(function() {})报错
