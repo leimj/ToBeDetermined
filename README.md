@@ -175,3 +175,5 @@ parseHexStr2Byte  作用
 
 
 理解为什么ProcessManage.js加了Ext.onReady(function() {})报错
+
+entity多层级转json
