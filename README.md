@@ -177,3 +177,37 @@ parseHexStr2Byte  作用
 理解为什么ProcessManage.js加了Ext.onReady(function() {})报错
 
 entity多层级转json
+
+entity多层级转json  经验证发现不论是entity是还是接口 一层的时候都会解析
+
+
+extjs pannel选项卡出错 原因
+
+
+登录失败，真正登录的POST请求由Filter完成，即：
+
+com.coreland.modules.sys.security.FormAuthenticationFilter.issueSuccessRedirect
+
+(ServletRequest, ServletResponse)  登陆代码跟踪
+
+
+controller @value 值在哪里设置
+
+
+学习shiro登陆的用法
+
+
+extjs 各种作用域问题 
+id冲突
+
+
+后台是重定向、现前端是用ajax访问，怎么搞
+
+
+Ext.tip.QuickTipManager.init()  作用
+
+
+ext中 -> 是什么意思
+
+
+ext  ajax 进入成功，失败 原理
