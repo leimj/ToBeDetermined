@@ -211,3 +211,12 @@ ext中 -> 是什么意思
 
 
 ext  ajax 进入成功，失败 原理
+
+ext ajax 后台报500错误时 如何返回自定义错误信息
+
+在controller中try catch 成功返回，在service中try catch 报了500 ？？？  ajax访问
+
+
+java反射学习
+
+PowerDesigner最基础的使用方法入门学习
