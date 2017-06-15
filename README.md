@@ -220,3 +220,9 @@ ext ajax 后台报500错误时 如何返回自定义错误信息
 java反射学习
 
 PowerDesigner最基础的使用方法入门学习
+
+多线程
+
+使用ExecutorService、Callable、Future实现有返回结果的多线程
+
+了解runnable类和thread类
