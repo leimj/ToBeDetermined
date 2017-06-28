@@ -226,3 +226,64 @@ PowerDesigner最基础的使用方法入门学习
 使用ExecutorService、Callable、Future实现有返回结果的多线程
 
 了解runnable类和thread类
+
+
+varchar2 单位 byte和char区别	
+http://blog.csdn.net/tongyu2009/article/details/8215015
+
+
+powerDesign mysql 转 oracle 注释没了
+
+
+数据库创建表如何启动的？
+
+
+oracle 表名、字段名大小写问题 
+表名大写，不用加引号        表名小写 要加引号？
+
+
+word插入题注
+
+
+tomcat中如何正确的部署java项目
+
+
+数据库设计三范式
+
+
+
+目前用户权限管理通常采用三种方法：强制访问控制(MAC:Mandatory Access  Control)，自主访问控制(DAC:Discretionary Access Control)，和基于角色的访问
+控制(RBAC:Role-Based Access Control)
+
+
+
+流程设计用户组怎么用？
+
+
+启动器填什么？必填？
+
+
+@RequiresPermissions("user")
+以及shiro学习
+
+
+用户菜单，用户，角色用了哪些表，存了哪些信息，怎么配合，实现了角色权限的分类
+
+
+
+
+核心框架：Spring Framework 4.0
+* 安全框架：Apache Shiro 1.2
+* 视图框架：Spring MVC 4.0
+* 服务端验证：Hibernate Validator 5.1
+* 工作流引擎：Activiti 5.15
+* 任务调度：Spring Task 4.0
+* 持久层框架：MyBatis 3.2
+* 数据库连接池：Alibaba Druid 1.0
+* 缓存框架：Ehcache 2.6、Redis
+* 日志管理：SLF4J 1.7、Log4j
+* 工具类：Apache Commons、Jackson 2.2、Xstream 1.4、Dozer 5.3、POI
+去了解这些
+
+
+properties 了解其中的配置项
