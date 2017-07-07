@@ -287,3 +287,40 @@ tomcat中如何正确的部署java项目
 
 
 properties 了解其中的配置项
+
+
+oracle设置外键时
+名 
+参考模式 
+参考表
+参考限制
+参考栏位
+栏位
+删除时
+
+
+名 参考模式 参考表 参考限制 参考栏位 栏位 删除时
+
+
+user_constraints 表存在oracle什么位置
+
+oracle几个名词概念
+
+
+字符集与排序规则区别
+
+sqlserver外键信息存在哪里
+
+
+mybatis mapping文件中dbname是怎么获取到的
+
+控制台打印sql是在什么地方配置的
+
+
+uri打印是在哪里配置的
+
+如何配置log4j能够答应sql,以及uri耗时
+
+了解mabits配置项的含义
+
+mybatis如何把查询结果放入model对象中的
