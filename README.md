@@ -324,3 +324,49 @@ uri打印是在哪里配置的
 了解mabits配置项的含义
 
 mybatis如何把查询结果放入model对象中的
+
+
+主从表主键外键
+--
+http://www.xuebuyuan.com/334455.html
+
+eclipse清除所有断点
+--
+run-->remove all breakpoints
+
+
+mybatis原理
+--
+http://www.cnblogs.com/cnblog-long/p/6651294.html
+
+
+@JsonBackReference
+--
+@JsonBackReference和@JsonManagedReference：这两个标注通常配对使用，通常用在父子关系中
+
+。@JsonBackReference标注的属性在序列化（serialization，即将对象转换为json数据）时，会
+
+被忽略（即结果中的json数据不包含该属性的内容）
+
+
+typeAliasesPackage
+--
+<bean>
+
+　　<property name = " typeAliasesPackage" value = " com.bean">
+
+　　</property>
+
+</bean>
+设置这个以后再Mapper配置文件中在parameterType 的值就不用写成全路径名了
+
+
+typeAliasesSuperType 
+--
+typeAliasesPackage 扫描哪个包下的域对象
+typeAliasesSuperType 扫描包以下面的这个类作为父类的域对象
+typeAliasesSuperType:表示mybatis支持的这些vo类型的dao操作，没有的话也是可以的，官方解
+
+释是：Super class which domain objects have to extend to have a type alias 
+
+created.<em>No effect if there is no package to scan configured.<br></em>
