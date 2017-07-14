@@ -370,3 +370,63 @@ typeAliasesSuperType:表示mybatis支持的这些vo类型的dao操作，没有�
 释是：Super class which domain objects have to extend to have a type alias 
 
 created.<em>No effect if there is no package to scan configured.<br></em>
+
+
+如何配置log4j能够打印sql,以及uri耗时
+
+了解mabits配置项的含义
+
+mybatis如何把查询结果放入model对象中的
+
+
+spring mvc 中各个文件作用 工程以及运行原理
+web.xml 
+
+
+@Scheduled(cron = "0 0 2 * * ?") 理解？
+
+sitemesh 这是什么？
+
+
+private static final ThreadLocal<Long> startTimeThreadLocal =
+			new NamedThreadLocal<Long>("ThreadLocal StartTime");
+理解用法
+
+
+
+spring mvc 如何解决并发
+多线程 并发？
+
+
+用servlet编写java代码
+servlet理解
+
+
+http://www.oschina.net/question/12_52027
+
+SaaS、PaaS、IaaS？
+
+
+js作用域、作用域链
+
+
+
+hashMap与hashSet区别、底层实现 ？
+
+事务有哪几种级别 ？
+a类   调用 b类   怎么能够b失败了，a继续执行
+
+springmvc 上传怎么实现 ？
+
+springmvc json怎么实现 ？
+
+mybatis 数据库 命名方式 和 java模型中的命名怎么对应  下划线和驼峰 ？
+
+私钥、公钥作用？
+
+Integer a = 100;
+Integer b = 100;
+System.err.println(a == b); //true
+Integer a = 200;
+Integer b = 200;
+System.err.println(a == b); //false
