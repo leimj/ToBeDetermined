@@ -437,3 +437,20 @@ ext 整体运行原理
 oracle 用户
 
 
+
+- 生成有序的  然后打乱顺序
+- 读一个很大的文件使用什么流
+- 有序的数中查找
+- hashmap 具体实现
+- vector  
+- nodepad++ 快捷键
+- volatile
+- MyBatis Generator
+- 德鲁伊
+- 日志 http://blog.csdn.net/woshiwxw765/article/details/762455
+- tomcat插件 脱离IDE怎么部署
+
+
+
+
+
